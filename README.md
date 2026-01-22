@@ -1,9 +1,9 @@
 ### OPA BOM 🤡
 
-Meu nome e fabricio dos santos
+Meu nome e fabricio dos santos de miranda
 
  - Estou estudando no [Alura](https://www.alura.com.br)
- - Estou me deenvolvendo na linguagem JavaScript
+ - Estou me desenvolvendo na linguagem JavaScript
  - Utilizo esse espaço para minha organizaçãp e compartilhamento dos meus projetos desenvolvidos
 
 ### voce pode entrar em contato comigo 📫
